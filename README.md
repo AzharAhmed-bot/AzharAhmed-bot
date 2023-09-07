@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azharahmed-bot" alt="azharahmed-bot" /></a> </p>
 
 - 🔭 I’m currently working on a Real time based Chat like whatsApp [Real Time chat](Coming soon!!)
-[![trophy](https://github-profile-trophy.vercel.app/?username=AzharAhmed-bot)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🌱 I’m currently learning **Bootstrap,Node js**
 
 - 👯 I’m looking to collaborate on my Real Time Chat project 
