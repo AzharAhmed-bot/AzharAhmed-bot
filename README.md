@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **azharahmedtakoy4444@gmail.com**
 
-- ⚡ Fun fact **I debug more than I code**
+- ⚡ Fun fact **Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
