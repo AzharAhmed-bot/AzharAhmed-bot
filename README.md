@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a Real time based Chat like whatsApp [Real Time chat](Coming soon!!)
 
-- 🌱 I’m currently learning **Bootstrap,Node js**
+- 🌱 I’m currently learning **Bootstrap,Node js and Angular ts**
 
 - 👯 I’m looking to collaborate on my Real Time Chat project 
 - 🤝 I’m looking for help with [HealthHubwise Website](https://healthhubwise.netlify.app/)
