@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on my Real Time Chat project 
 - 🤝 I’m looking for help with [HealthHubwise Website](https://healthhubwise.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [http://takoyportfolio.netlify.app](http://takoyportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [My Porfolio](https://azharaportfolio.netlify.app/)
 
 - 📝 I regularly write algorithms for practice [http://takoytimer.netlify.app](http://takoytimer.netlify.app)
 
